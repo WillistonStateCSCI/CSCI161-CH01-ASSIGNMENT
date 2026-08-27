@@ -4,7 +4,6 @@ Problems from Data Structures and Algorithms in Java 6th Edition.
 **R-1.03** Write a short Java method, *isMultiple*, that takes two **long** values, *m* and *n*, and returns true if and only if *n* is a multiple of *m*, that is, *n=mi* for some integer *i*.  
 **R-1.06** Write a short Java method that takes an integer *n* and returns the sum of all the odd positive integers less than or equal to *n*.  
 **R-1.08** Write a short Java method that counts the number of vowels in a given character string.  
-**R-1.11** Modify the *CreditCard* class from Code Fragment 1.5 (provided) to include a method that updates the credit limit.  
 
 ## Creativity
 **C-1.19** Write a Java program that can take a positive integer greater than 2 as input and write out the number of times one must repeatedly divide this number by 2 before getting a value less than 2.  
